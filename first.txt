@@ -1,0 +1,8 @@
+repl.it/@HoJunKim1/Python-Course  에서 빌드.
+추후 Python 개발환경이 갖추어지면 소스 이전
+
+대상사이트 : indeed.com
+
+1. 웹사이트 가져오기 url [20191120/done]
+2. 페이지 목록 알아내기 [20191120/done]
+3. 페이지에 하나씩 들어가주기
