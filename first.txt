@@ -10,3 +10,10 @@ repl.it/@HoJunKim1/Python-Course  에서 빌드.
 	-ANCHOR에 회사명 없을경우 처리 추가. 출력결과 공백 제거[20191124/done]
 	-타이틀, 회사명, 지역 습득.[20191125/done]
 3. 페이지에 하나씩 들어가주기
+
+================================================
+stackoverflow 추출
+
+1.get the page
+2.make the request
+3.extract the jobs
